@@ -10,8 +10,9 @@ pip install -r requirements.txt
 
 
 ## Running ChatBot Application in Terminal
+change the directory
 ```
-cd into your directory
+cd HealthCareChatBot
 ```
 
 ```
